@@ -1,4 +1,32 @@
 
+
+Last login: Mon Feb 14 09:41:13 on ttys000
+정영우/GroupStudy - (ywc) > git switch master
+'master' 브랜치로 전환합니다
+정영우/GroupStudy - (master) > vi gitignore
+
+# Created by https://www.toptal.com/developers/gitignore/api/macos,windows,python,visualstudiocode
+# Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,python,visualstudiocode
+
+### macOS ###
+# General
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Icon must end with two \r
+Icon
+
+
+# Thumbnails
+._*
+
+# Files that might appear in the root of a volume
+.DocumentRevisions-V100
+.fseventsd
+.Spotlight-V100
+.TemporaryItems
+".gitignore" 235L, 4168B
 # Created by https://www.toptal.com/developers/gitignore/api/macos,windows,python,visualstudiocode
 # Edit at https://www.toptal.com/developers/gitignore?templates=macos,windows,python,visualstudiocode
 
