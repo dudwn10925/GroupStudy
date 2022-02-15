@@ -1,19 +1,19 @@
 ####  📝 Rule
 
 - 스터디 시간: 
-- 일주일에 N문제 풀기 (문제는 매주 정하기)
-- [백준 문제집](https://www.acmicpc.net/group/workbook/list/10053)
+- 일주일에 5문제 풀기 
+- [백준 문제집](https://www.acmicpc.net/group/workbook/list/10053) [백준 별찍기][https://www.acmicpc.net/search#q=%EB%B3%84%20%EC%B0%8D%EA%B8%B0&c=Problems]
 - [CodeUp python 기본 문제][https://codeup.kr/problemsetsol.php?psid=14]
 
 
 
-##### 참여방법
+##### 그룹장이 할 일
 
 1. 매주 새 디렉터리를 만듭니다. (ex. 1주차, 2주차 ...)
 2. 디렉터리에 문제 디렉터리를 또 만듭니다. (ex. 백준 1000번 문제라면 BOJ_1000)
 3. 문제 디렉터리에 각자 푼 문제를 추가합니다.
 
-#### 
+
 
 ##### 문제풀이 파일 올리기
 
@@ -24,7 +24,7 @@
 
 
 
-##### [피드백 달기][https://devlog-wjdrbs96.tistory.com/231]
+##### 피드백 달기
 
 1. commit을 누르면 코드를 view 할 수 있습니다.
 2. 코드 각줄 좌측에 +를 누르면 코멘트를 달 수 있는 텍스트 박스가 나타나요.
@@ -34,7 +34,7 @@
 
 ##### 컴퓨터 디렉토리에 있는 폴더를 git hub와 [동기화 하기][https://lifove.tistory.com/54]
 
-1. master branch에서 작업해야 합니다! : `git branch master`
+1. `git branch master`
 2. `git fetch upstream`
 3. `git merge upstream/master`
 

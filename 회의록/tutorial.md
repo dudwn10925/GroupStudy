@@ -1,7 +1,5 @@
 #### 스터디 해주셔야 할 일
 
-
-
 ##### 동권님께서 공지에 올려주신 정리 내용을 참고해 [1]~[5]번을 해주세요! 안 되는 부분이 있으면 톡에 말씀해주세요! 다같이 고민해용ㅎㅎ!
 
 [동권님 fork 정리][https://github.com/gwonihan/MulcamD_study/blob/master/Fork%20%EC%82%AC%EC%9A%A9%EB%B2%95.md]
