@@ -1,9 +1,12 @@
 ####  📝 Rule
 
-- 스터디 시간: 
-- 일주일에 5문제 풀기 
-- [백준 문제집](https://www.acmicpc.net/group/workbook/list/10053) [백준 별찍기][https://www.acmicpc.net/search#q=%EB%B3%84%20%EC%B0%8D%EA%B8%B0&c=Problems]
-- [CodeUp python 기본 문제][https://codeup.kr/problemsetsol.php?psid=14]
+- 줌 회의 시간: 매주 월요일 오후 7시 `코드 발표` `피드백`
+
+- 문제: 일주일에 5문제 풀기 
+
+  > [백준 문제집](https://www.acmicpc.net/group/workbook/list/10053) [백준 별찍기][https://www.acmicpc.net/search#q=%EB%B3%84%20%EC%B0%8D%EA%B8%B0&c=Problems]
+  >
+  > [CodeUp python 기본 문제][https://codeup.kr/problemsetsol.php?psid=14]
 
 
 
