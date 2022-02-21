@@ -4,17 +4,21 @@
 
 - 문제: 일주일에 5문제 풀기 
 
-  > [백준 문제집](https://www.acmicpc.net/group/workbook/list/10053) [백준 별찍기][https://www.acmicpc.net/search#q=%EB%B3%84%20%EC%B0%8D%EA%B8%B0&c=Problems]
+  > [백준 별찍기][https://www.acmicpc.net/search#q=%EB%B3%84%20%EC%B0%8D%EA%B8%B0&c=Problems]
   >
-  > [CodeUp python 기본 문제][https://codeup.kr/problemsetsol.php?psid=14]
+  > [CodeUp python 기본 100제][https://codeup.kr/problemsetsol.php?psid=14]
+  >
+  > [정올][http://jungol.co.kr/]
+  >
+  > [프로그래머스][https://programmers.co.kr/]
 
 
 
-##### 그룹장이 할 일
+##### 개요
 
-1. 매주 새 디렉터리를 만듭니다. (ex. 1주차, 2주차 ...)
-2. 디렉터리에 문제 디렉터리를 또 만듭니다. (ex. 백준 1000번 문제라면 BOJ_1000)
-3. 문제 디렉터리에 각자 푼 문제를 추가합니다.
+1. 매주 새 디렉터리를 만듭니다. (ex. 1주차)
+2. 디렉터리에 개인 디렉터리를 또 만듭니다. (ex. 김누구)
+3. 문제 디렉터리에 각자 푼 문제를 추가합니다. (ex. BOJ_1000_김누구.py)
 
 
 
@@ -35,11 +39,10 @@
 
 
 
-##### 컴퓨터 디렉토리에 있는 폴더를 git hub와 [동기화 하기][https://lifove.tistory.com/54]
+##### 컴퓨터 디렉토리에 있는 폴더를 git hub와 [동기화 하기][https://lifove.tistory.com/54] *선택사항
 
-1. `git branch master`
-2. `git fetch upstream`
-3. `git merge upstream/master`
+1. `git fetch upstream`
+2. `git merge upstream/master`
 
 
 
